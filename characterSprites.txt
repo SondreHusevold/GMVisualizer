@@ -1,0 +1,13 @@
+EmptyCharacter
+== PLAYERS ==
+Example one
+Example two
+Example three
+
+== GENERICS ==
+GenericBoy
+GenericBoy2
+GenericGirl
+
+== ENEMIES ==
+Teddy

@@ -1,0 +1,71 @@
+black
+
+== Scenery Morning ==
+Morning
+Morning2
+
+== Scenery Day ==
+Scenery3
+Scenery4
+Scenery5
+Scenery6
+Scenery7
+Mall
+Mall2
+Park
+Park2
+Park3
+
+== Scenery School == 
+HighSchool
+HighSchoolCantina
+HighSchoolClassroom
+HighSchoolCorridor
+HighSchoolEnterance
+HighSchoolHalls
+HighSchoolOutside
+HighSchoolRoofTop
+Dojo
+MusicRoom
+TechRoom
+Auditorium
+
+== Scenery After School ==
+Scenery
+Scenery2
+Scenery6
+Shrine
+
+== Scenery Evening == 
+NightScenery
+NightScenery2
+NightScenery3
+NightScenery4
+
+== Scenery Rain ==
+RainyScenery
+RainyScenery2
+
+== Scenery Facilities ==
+Mall
+Mall2
+
+== House Day ==
+HouseDay
+JapaneseHouse
+ClassicJapanese2
+PrivateBackgroundRoom
+PrivateBackgroundRoom2
+PrivateBackgroundRoom3
+
+== House Night ==
+NightHouse
+NightBedroom
+ClassicJapanese
+
+== OTHER ==
+velvetroom
+PlaneScenery
+FestivalScenery
+Hospital
+Jungle
