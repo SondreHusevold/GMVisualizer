@@ -1,3 +1,6 @@
+GMVisualizer
+============
+
 This is a game mastering tool for table-top games to visualize a setting or scene with sprites and backgrounds.
 
 It has an integrated dungeon crawling labyrinth system that allows the GM to show the players where they are inside the dungeon and what might be happening.
