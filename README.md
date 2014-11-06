@@ -6,12 +6,9 @@ This is a game mastering tool for table-top games to visualize a setting or scen
 It has an integrated dungeon crawling labyrinth system that allows the GM to show the players where they are inside the dungeon and what might be happening.
 
 Instructions:
-
+=============
 
 All assets are to be bundled with the program. This means an "Images" folder and "labyrinth" folder needs to be included in the root of the folder where the .jar file is located. In order to make the program more dynamic, the assets are not supposed to be compiled and packed inside the .jar.
-
-Instructions:
-=============
 
 The folder structure are as follows:
 
