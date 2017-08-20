@@ -1,6 +1,15 @@
 GMVisualizer
 ============
 
+[DEAD PROJECT]
+--------------
+This was originally a project that later evolved to become another one made in C++ and Qt called the Etrian Dungeon Creator which isn't available on GitHub and is also a dead project. 
+
+It is only here due to originally being uploaded here when I worked on it. Will probably be removed later on.
+
+Introduction
+------------
+
 This is a game mastering tool for table-top games to visualize a setting or scene with sprites and backgrounds.
 
 It has an integrated dungeon crawling labyrinth system that allows the GM to show the players where they are inside the dungeon and what might be happening.
